@@ -15,16 +15,17 @@ Active Tab Permission: The extension uses the activeTab permission to modify the
 3. Data Usage
 Locally Stored Data: The only data stored is the counter value that adjusts the number of rows displayed in YouTube's grid layout. This data is stored locally on your browser and is never transmitted to any server.
 CSS Injection: The extension dynamically injects CSS into YouTube pages to adjust the display of content. This CSS injection only affects the appearance of YouTube's layout and does not collect or modify any personal data.
+
 4. Data Sharing
 The extension does not share any data with external parties. All operations are performed locally on the user’s device, and no information is sent to any third-party servers or services.
 
 5. Security
-We prioritize your privacy and security. The extension does not access, collect, or store sensitive data. All information related to the counter is kept on your device, and no data is shared or transmitted.
+I prioritize your privacy and security. The extension does not access, collect, or store sensitive data. All information related to the counter is kept on your device, and no data is shared or transmitted.
 
 6. Changes to This Privacy Policy
-We may update this Privacy Policy from time to time. If we make changes, we will notify users by updating the date at the top of this page. We encourage you to periodically review this Privacy Policy for any updates.
+I may update this Privacy Policy from time to time. If we make changes, we will notify users by updating the date at the top of this page. We encourage you to periodically review this Privacy Policy for any updates.
 
 7. Contact Us
-If you have any questions about this Privacy Policy or the extension, please contact us at:
+If you have any questions about this Privacy Policy or the extension, please contact me at:
 
 fckcod69@gmail.com
