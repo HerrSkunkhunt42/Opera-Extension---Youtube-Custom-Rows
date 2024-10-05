@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Counter UI</title>
+  <style>
+    #container {
+      display: flex;
+      align-items: center;
+      flex-direction: column;
+      width: 200px;
+      margin-top: 20px;
+      font-family: Arial, sans-serif;
+    }
+    #entryField {
+      width: 50px;
+      text-align: center;
+      font-size: 20px;
+    }
+    #buttons {
+      margin-top: 10px;
+    }
+    .button {
+      font-size: 18px;
+      padding: 5px;
+      width: 60px;
+    }
+  </style>
+</head>
+<body>
+  <div id="container">
+    <input type="number" id="entryField" value="5" min="1" max="20" />
+    <div id="buttons">
+      <button id="upButton" class="button">Up</button>
+      <button id="downButton" class="button">Down</button>
+    </div>
+  </div>
+  <script src="popup.js"></script>
+</body>
+</html>

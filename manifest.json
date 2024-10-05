@@ -1,0 +1,18 @@
+{
+  "manifest_version": 3,
+  "name": "YouTube Custom Rows",
+  "version": "1.1",
+  "description": "An Opera extension that provides a counter UI with an entry field and up/down buttons, and dynamically injects CSS into YouTube.",
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": "icon.png"
+  },
+  "permissions": [
+    "storage",
+    "activeTab",
+    "scripting"
+  ],
+  "host_permissions": [
+    "https://www.youtube.com/*"
+  ]
+}
