@@ -8,9 +8,9 @@ The YouTube Custom Rows extension does not collect or transmit any personal info
 2. Permissions
 This extension uses the following permissions:
 
-Storage Permission: The extension uses the chrome.storage API to store the value that controls the number of rows in the YouTube grid layout. This value is stored locally on the user’s device to ensure the extension remembers the user's preference between browser sessions.
+  Storage Permission: The extension uses the chrome.storage API to store the value that controls the number of rows in the YouTube grid layout. This value is stored locally on the user’s device to ensure the extension remembers the user's preference between browser sessions.
 
-Active Tab Permission: The extension uses the activeTab permission to modify the active YouTube tab by injecting CSS that adjusts the number of grid rows displayed. This permission only operates when YouTube is actively in use and does not collect personal data from the user’s browsing session.
+  Active Tab Permission: The extension uses the activeTab permission to modify the active YouTube tab by injecting CSS that adjusts the number of grid rows displayed. This permission only operates when YouTube is actively in use and does not collect personal data from the user’s browsing session.
 
 3. Data Usage
 Locally Stored Data: The only data stored is the counter value that adjusts the number of rows displayed in YouTube's grid layout. This data is stored locally on your browser and is never transmitted to any server.
